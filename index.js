@@ -18,4 +18,6 @@ function dec(n) {
   n--;
   return n;
 }
-function makeINt
+function makeInt(n) {
+  
+}
